@@ -4,7 +4,7 @@ _Busqueda de un libro por su número de ISBN_
 
 ## Comenzando 🚀
 
-_para poder probar este mini-proyecto es importate descargar AXIOS y NODE_MODUELS_
+_para poder probar este mini-proyecto es importate descargar Axios, Node_Modules, Express y Cors.
 
 
 ## Construido con 🛠️
